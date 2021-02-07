@@ -14,7 +14,7 @@
 /* events:
 click	        keypress	submit	    load
 dblclick	    keydown	    change	    resize
-mouseenter	    keyup	    focus	    scroll
+mouseenter	  keyup	    focus	    scroll
 mouseleave	 	blur	    unload */
 
 // example $("p").click();
